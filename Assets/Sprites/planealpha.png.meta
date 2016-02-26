@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 81288c8df6ad2db4e93e7b5db5f101d8
+timeCreated: 1456506517
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: planealpha_0
+    21300002: planealpha_1
+    21300004: planealpha_2
+    21300006: planealpha_3
+    21300008: planealpha_4
+    21300010: planealpha_5
+    21300012: planealpha_6
+    21300014: planealpha_7
+    21300016: planealpha_8
+    21300018: planealpha_9
+    21300020: planealpha_10
+    21300022: planealpha_11
+    21300024: planealpha_12
+    21300026: planealpha_13
+    21300028: planealpha_14
+    21300030: planealpha_15
+    21300032: planealpha_16
+    21300034: planealpha_17
+    21300036: planealpha_18
+    21300038: planealpha_19
+    21300040: planealpha_20
+    21300042: planealpha_21
+    21300044: planealpha_22
+    21300046: planealpha_23
+    21300048: planealpha_24
+    21300050: planealpha_25
+    21300052: planealpha_26
+    21300054: planealpha_27
+    21300056: planealpha_28
+    21300058: planealpha_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: planealpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 212
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1839
+        width: 213
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1835
+        width: 228
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1888
+        width: 191
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1888
+        width: 137
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_6
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1844
+        width: 165
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_7
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1843
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_8
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1850
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_9
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1852
+        width: 193
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_10
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1861
+        width: 155
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_11
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1852
+        width: 179
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1257
+        width: 329
+        height: 549
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1385
+        width: 186
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1371
+        width: 178
+        height: 440
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1426
+        width: 177
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_16
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1452
+        width: 188
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_17
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1619
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_18
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1690
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_19
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1681
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_20
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1689
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_21
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1691
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_22
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1696
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_23
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1535
+        width: 457
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_24
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1585
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_25
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1583
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_26
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1584
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_27
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 917
+        width: 709
+        height: 367
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_28
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 710
+        height: 1443
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: planealpha_29
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1560
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

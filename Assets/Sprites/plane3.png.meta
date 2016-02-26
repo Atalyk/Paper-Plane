@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 8688f2cc77ad3994c8c9ff310850dde8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plane3_0
+    21300002: plane3_1
+    21300004: plane3_2
+    21300006: plane3_3
+    21300008: plane3_4
+    21300010: plane3_5
+    21300012: plane3_6
+    21300014: plane3_7
+    21300016: plane3_8
+    21300018: plane3_9
+    21300020: plane3_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plane3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 175
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1810
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1636
+        width: 460
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1634
+        width: 459
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_4
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1633
+        width: 460
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 23
+        width: 712
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 37
+        width: 711
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_7
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 0
+        width: 712
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_8
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 37
+        width: 712
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_9
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 62
+        width: 712
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plane3_10
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 80
+        width: 710
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
